@@ -28,7 +28,7 @@ Roblox developer who loves building games people can play with friends.
 
 ## 📊 GitHub stats
 
-![noproblemrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=noproblemrr&show_icons=true&theme=tokyonight)
+![noproblemerr-web's GitHub stats](https://github-readme-stats.vercel.app/api?username=noproblemerr-web&show_icons=true&theme=tokyonight)
 
 ---
 
