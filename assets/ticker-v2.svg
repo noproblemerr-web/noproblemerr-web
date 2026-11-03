@@ -4,7 +4,7 @@
   </defs>
   <g clip-path="url(#clip)">
     <rect x="0" y="0" width="900" height="36" fill="#161b22" stroke="#30363d"/>
-    <g font-family="'Comic Sans MS', 'Comic Neue', 'Chalkboard SE', cursive" font-size="18" font-weight="bold" fill="#ffd60a">
+    <g font-family="'Comic Sans MS', 'Comic Neue', 'Chalkboard SE', cursive" font-size="18" font-weight="bold" fill="#3ddc84">
       <g>
         <animateTransform attributeName="transform" type="translate" from="0 0" to="-900 0" dur="14s" repeatCount="indefinite"/>
         <text x="0" y="24" textLength="900" lengthAdjust="spacingAndGlyphs">★ NICHE TRIVIA IS COMING ★ SUBSCRIBE ON YOUTUBE ★ STAY HYDRATED ★ TOUCH GRASS ★</text>
