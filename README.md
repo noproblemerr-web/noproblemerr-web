@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td align="center"><a href="https://www.youtube.com/@noproblemrr"><b>Watch my YouTube channel</b></a><br><br><a href="https://www.youtube.com/@noproblemrr"><img src="assets/youtube.svg" alt="Retro TV" width="140"></a></td>
-    <td align="center"><a href="https://open.spotify.com/"><b>Listen to my Spotify</b></a><br><br><a href="https://open.spotify.com/"><img src="assets/spotify.svg" alt="Headphones" width="140"></a></td>
+    <td align="center"><a href="https://open.spotify.com/user/31gvcej2xi3kczpk4dh64gt66wyq"><b>Listen to my Spotify</b></a><br><br><a href="https://open.spotify.com/user/31gvcej2xi3kczpk4dh64gt66wyq"><img src="assets/spotify.svg" alt="Headphones" width="140"></a></td>
   </tr>
 </table>
 
