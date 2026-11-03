@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Noproblemrr - welcome to my corner of the internet" width="900">
+<img src="assets/banner-rainbow.svg" alt="Noproblemrr - welcome to my corner of the internet" width="900">
 
 <img src="assets/ticker.svg" alt="Scrolling ticker: Niche Trivia is coming, subscribe on YouTube, stay hydrated, touch grass" width="900">
 
 <br>
 
-<img src="assets/intro.svg" alt="Roblox dev, meme enjoyer, certified trivia nerd" width="850">
+<img src="assets/intro-rainbow.svg" alt="Roblox dev, robotics nerd, meme enjoyer" width="850">
 
 <br>
 
@@ -22,14 +22,14 @@
 <table>
   <tr><th colspan="2">📋 Quick Facts</th></tr>
   <tr><td><b>Main quest</b></td><td>Building Niche Trivia on Roblox</td></tr>
-  <tr><td><b>Weapon of choice</b></td><td>Luau + Roblox Studio</td></tr>
-  <tr><td><b>Side quest</b></td><td>Making videos on YouTube</td></tr>
+  <tr><td><b>Weapon of choice</b></td><td>Luau, TypeScript, and a lot of coffee</td></tr>
+  <tr><td><b>Side quests</b></td><td>FTC robotics, Obsidian plugins, and YouTube</td></tr>
   <tr><td><b>Fuel</b></td><td>Music, memes, and questionable snacks</td></tr>
 </table>
 
 <br>
 
-<img src="assets/projects-title.svg" alt="Project Arcade" width="520">
+<img src="assets/projects-rainbow.svg" alt="Project Arcade" width="520">
 
 <br>
 
@@ -47,16 +47,28 @@
     <td>🧠🤓☝️ 9/10<br><sub>"erm, actually..."</sub></td>
   </tr>
   <tr>
-    <td>🗿 <b>Mystery project</b></td>
-    <td>🔒 Locked</td>
-    <td>Next one is still cooking. Stay tuned</td>
-    <td>🍳👀💀 ???/10<br><sub>"no comment"</sub></td>
+    <td>🔄 <b><a href="https://github.com/noproblemerr-web/live-room-sync">live-room-sync</a></b></td>
+    <td>⚙️ Tinkering</td>
+    <td>An Obsidian plugin: live, serverless vault sync and Google-Docs-style typing with a room code</td>
+    <td>🤯⚡🔥 8/10<br><sub>"wait, it syncs live?!"</sub></td>
+  </tr>
+  <tr>
+    <td>🤖 <b><a href="https://github.com/noproblemerr-web/autopathing-ftc">autopathing-ftc</a></b></td>
+    <td>🛠️ Tinkering</td>
+    <td>A click-to-path autonomous planner for FTC robots: draw a path, export a ready-to-run Java OpMode</td>
+    <td>🤖🗿💯 10/10<br><sub>"robot go brrr"</sub></td>
+  </tr>
+  <tr>
+    <td>🏔️ <b><a href="https://github.com/noproblemerr-web/everest-journey">everest-journey</a></b></td>
+    <td>🧗 Climbing</td>
+    <td>My Everest journey and sponsorship opportunity</td>
+    <td>🥶🏔️😤 11/10<br><sub>"touch snow, not grass"</sub></td>
   </tr>
 </table>
 
 <br>
 
-<img src="assets/thanks.svg" alt="Thanks for stopping by, now go touch some grass" width="850">
+<img src="assets/thanks-rainbow.svg" alt="Thanks for stopping by, now go touch some grass" width="850">
 
 <br>
 
