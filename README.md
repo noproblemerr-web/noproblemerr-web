@@ -1,19 +1,20 @@
 <div align="center">
 
-<img src="assets/banner-v2.svg" alt="Welcome to my profile" width="900">
+<img src="assets/banner-v3.svg" alt="Welcome to my profile" width="900">
 
-<img src="assets/ticker-v2.svg" alt="Scrolling ticker: Niche Trivia is coming, subscribe on YouTube, stay hydrated, touch grass" width="900">
-
-<br>
-
-<img src="assets/intro-v2.svg" alt="Traveler, developer, burger" width="850">
+<img src="assets/ticker-v3.svg" alt="Scrolling ticker: Niche Trivia is coming, subscribe on YouTube, stay hydrated, touch grass" width="900">
 
 <br>
+
+<img src="assets/intro-v3.svg" alt="Traveler, developer, burger" width="850">
+
+<img src="assets/side-left.svg" alt="Maya and Coco from Ongezellig" align="left" width="130">
+<img src="assets/side-right.svg" alt="Mymy from Ongezellig" align="right" width="130">
 
 <table>
   <tr>
-    <td align="center" width="260"><a href="https://www.youtube.com/@noproblemrr"><img src="assets/youtube.svg" alt="Retro TV" width="120"></a><br><b>📺 Watch on YouTube</b><br><sub>@noproblemrr</sub></td>
-    <td align="center" width="260"><a href="https://open.spotify.com/user/31gvcej2xi3kczpk4dh64gt66wyq"><img src="assets/spotify.svg" alt="Headphones" width="120"></a><br><b>🎧 Vibe on Spotify</b><br><sub>my current rotation</sub></td>
+    <td align="center" width="200"><a href="https://www.youtube.com/@noproblemrr"><img src="assets/youtube.svg" alt="Retro TV" width="120"></a><br><b>📺 Watch on YouTube</b><br><sub>@noproblemrr</sub></td>
+    <td align="center" width="200"><a href="https://open.spotify.com/user/31gvcej2xi3kczpk4dh64gt66wyq"><img src="assets/spotify.svg" alt="Headphones" width="120"></a><br><b>🎧 Vibe on Spotify</b><br><sub>my current rotation</sub></td>
   </tr>
 </table>
 
@@ -27,9 +28,9 @@
   <tr><td><b>Fuel</b></td><td>Music, memes, and questionable snacks</td></tr>
 </table>
 
-<br>
+<br clear="all">
 
-<img src="assets/projects-v2.svg" alt="Project Arcade" width="780">
+<img src="assets/projects-v3.svg" alt="Project Arcade" width="780">
 
 <br>
 
@@ -68,7 +69,7 @@
 
 <br>
 
-<img src="assets/thanks-v2.svg" alt="Thanks for stopping by, now go touch some grass" width="850">
+<img src="assets/thanks-v3.svg" alt="Thanks for stopping by, now go touch some grass" width="850">
 
 <br>
 
