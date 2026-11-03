@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/banner-rainbow.svg" alt="Noproblemrr - welcome to my corner of the internet" width="900">
+<img src="assets/banner-solid.svg" alt="Noproblemrr - welcome to my corner of the internet" width="900">
 
 <img src="assets/ticker.svg" alt="Scrolling ticker: Niche Trivia is coming, subscribe on YouTube, stay hydrated, touch grass" width="900">
 
 <br>
 
-<img src="assets/intro-rainbow.svg" alt="Roblox dev, robotics nerd, meme enjoyer" width="850">
+<img src="assets/intro-solid.svg" alt="Traveler, developer, burger" width="850">
 
 <br>
 
@@ -29,7 +29,7 @@
 
 <br>
 
-<img src="assets/projects-rainbow.svg" alt="Project Arcade" width="520">
+<img src="assets/projects-solid.svg" alt="Project Arcade" width="520">
 
 <br>
 
@@ -68,7 +68,7 @@
 
 <br>
 
-<img src="assets/thanks-rainbow.svg" alt="Thanks for stopping by, now go touch some grass" width="850">
+<img src="assets/thanks-solid.svg" alt="Thanks for stopping by, now go touch some grass" width="850">
 
 <br>
 
