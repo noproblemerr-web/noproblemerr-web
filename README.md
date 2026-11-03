@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner-v4.svg" alt="Welcome to my profile" width="900">
+<img src="assets/banner-v5.svg" alt="Welcome to my profile" width="900">
 
 <img src="assets/ticker-v4.svg" alt="Scrolling ticker: Niche Trivia is coming, subscribe on YouTube, stay hydrated, touch grass" width="900">
 
