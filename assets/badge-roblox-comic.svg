@@ -3,6 +3,6 @@
   <rect x="3" y="3" width="170" height="56" fill="none" stroke="#fff" stroke-width="2"/>
   <rect x="12" y="14" width="34" height="34" fill="#e2231a" transform="rotate(-15 29 31)"/>
   <rect x="23" y="25" width="12" height="12" fill="#e8e8e8" transform="rotate(-15 29 31)"/>
-  <text x="58" y="27" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#222">BUILT WITH</text>
-  <text x="58" y="45" font-family="'Courier New', monospace" font-size="15" font-weight="bold" fill="#e2231a">ROBLOX STUDIO</text>
+  <text x="58" y="27" font-family="'Comic Sans MS', 'Comic Neue', 'Chalkboard SE', cursive" font-size="12" font-weight="bold" fill="#222">BUILT WITH</text>
+  <text x="58" y="45" font-family="'Comic Sans MS', 'Comic Neue', 'Chalkboard SE', cursive" font-size="15" font-weight="bold" fill="#e2231a">ROBLOX STUDIO</text>
 </svg>

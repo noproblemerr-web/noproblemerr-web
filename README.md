@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/banner-solid.svg" alt="Noproblemrr - welcome to my corner of the internet" width="900">
+<img src="assets/banner-wave.svg" alt="Welcome to my profile" width="900">
 
-<img src="assets/ticker.svg" alt="Scrolling ticker: Niche Trivia is coming, subscribe on YouTube, stay hydrated, touch grass" width="900">
+<img src="assets/ticker-comic.svg" alt="Scrolling ticker: Niche Trivia is coming, subscribe on YouTube, stay hydrated, touch grass" width="900">
 
 <br>
 
-<img src="assets/intro-solid.svg" alt="Traveler, developer, burger" width="850">
+<img src="assets/intro-comic.svg" alt="Traveler, developer, burger" width="850">
 
 <br>
 
@@ -29,7 +29,7 @@
 
 <br>
 
-<img src="assets/projects-solid.svg" alt="Project Arcade" width="520">
+<img src="assets/projects-comic.svg" alt="Project Arcade" width="520">
 
 <br>
 
@@ -68,12 +68,12 @@
 
 <br>
 
-<img src="assets/thanks-solid.svg" alt="Thanks for stopping by, now go touch some grass" width="850">
+<img src="assets/thanks-comic.svg" alt="Thanks for stopping by, now go touch some grass" width="850">
 
 <br>
 
-<img src="assets/badge-roblox.svg" alt="Built with Roblox Studio" width="132">
-<img src="assets/badge-luau.svg" alt="Powered by Luau" width="132">
-<img src="assets/badge-memes.svg" alt="100% certified meme lord" width="132">
+<img src="assets/badge-roblox-comic.svg" alt="Built with Roblox Studio" width="132">
+<img src="assets/badge-luau-comic.svg" alt="Powered by Luau" width="132">
+<img src="assets/badge-memes-comic.svg" alt="100% certified meme lord" width="132">
 
 </div>
