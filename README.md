@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="assets/intro-v4.svg" alt="Traveler, developer, burger" width="850">
+<img src="assets/intro-v4.svg" alt="Traveler, developer, Aura" width="850">
 
 <img src="assets/side-left-v4.svg" alt="Maya and Coco from Ongezellig" align="left" width="130">
 <img src="assets/side-right-v4.svg" alt="Mymy from Ongezellig" align="right" width="130">
