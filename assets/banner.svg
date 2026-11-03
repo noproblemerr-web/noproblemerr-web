@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -20 960 200" width="960" height="200" role="img" aria-label="Welcome to my GitHub Profile">
+  <defs>
+    <path id="wave" d="M30,95 C180,30 330,160 480,95 S780,30 930,95"/>
+  </defs>
+  <g font-family="Impact, 'Arial Black', sans-serif" font-size="68" font-weight="900" letter-spacing="-2">
+    <text fill="#0a14b8" stroke="#0a14b8" stroke-width="8" stroke-linejoin="round" transform="translate(6,8)">
+      <textPath href="#wave" textLength="890" lengthAdjust="spacingAndGlyphs">Welcome to my GitHub Profile</textPath>
+    </text>
+    <text fill="#4fb8ff" stroke="#1230e0" stroke-width="3" stroke-linejoin="round">
+      <textPath href="#wave" textLength="890" lengthAdjust="spacingAndGlyphs">Welcome to my GitHub Profile</textPath>
+    </text>
+  </g>
+</svg>

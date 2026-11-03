@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="160" height="160" role="img" aria-label="Headphones">
+  <g>
+    <animateTransform attributeName="transform" type="rotate" values="-6 80 90;6 80 90;-6 80 90" dur="1s" repeatCount="indefinite"/>
+    <path d="M30,100 V80 A50,50 0 0 1 130,80 V100" fill="none" stroke="#1db954" stroke-width="12" stroke-linecap="round"/>
+    <rect x="18" y="88" width="30" height="50" rx="12" fill="#191414" stroke="#1db954" stroke-width="5"/>
+    <rect x="112" y="88" width="30" height="50" rx="12" fill="#191414" stroke="#1db954" stroke-width="5"/>
+    <text x="80" y="108" text-anchor="middle" font-size="34" fill="#1db954">&#9835;</text>
+  </g>
+</svg>

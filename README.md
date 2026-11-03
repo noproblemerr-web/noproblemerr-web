@@ -1,35 +1,55 @@
-# Hi, I'm Noproblemrr 👋
+<div align="center">
 
-Roblox developer who loves building games people can play with friends.
+<img src="assets/banner.svg" alt="Welcome to my GitHub Profile" width="900">
 
-## 🔭 What I'm working on
+<br>
 
-- 🎮 **Niche Trivia**: a Roblox trivia game for people who know a little too much about their favorite topics
-- 📚 Getting better at Luau, game design, and UI
+<img src="assets/intro.svg" alt="My name is Noproblemrr and I like making Roblox games" width="850">
 
-## 🛠️ What I use
+<br><br>
 
-![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
-![Luau](https://img.shields.io/badge/Luau-000000?style=for-the-badge&logo=lua&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
+<table>
+  <tr>
+    <td align="center"><a href="https://www.youtube.com/@noproblemrr"><b>Watch my YouTube channel</b></a><br><br><a href="https://www.youtube.com/@noproblemrr"><img src="assets/youtube.svg" alt="Retro TV" width="140"></a></td>
+    <td align="center"><a href="https://open.spotify.com/"><b>Listen to my Spotify</b></a><br><br><a href="https://open.spotify.com/"><img src="assets/spotify.svg" alt="Headphones" width="140"></a></td>
+  </tr>
+</table>
 
-## 🌱 Currently learning
+<br>
 
-- Better game architecture in Luau
-- UI/UX design for Roblox
-- Contributing to open source
+<img src="assets/projects-title.svg" alt="Projects" width="400">
 
-## 🤝 Let's connect
+<br>
 
-- Ask me about Roblox development, trivia game design, or anything I'm working on
-- Open to collaborating on small projects, so feel free to open an issue or say hi
-- 📫 Reach me: YouTube: [@noproblemrr](https://www.youtube.com/@noproblemrr)
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Status</th>
+    <th>Description</th>
+    <th>Vibes</th>
+  </tr>
+  <tr>
+    <td>🎮 <b>Niche Trivia</b></td>
+    <td>🚧 In development</td>
+    <td>A Roblox trivia game for people who know a little too much about their favorite topics</td>
+    <td>🧠 🤓 ☝️ 🔥</td>
+  </tr>
+  <tr>
+    <td>🗿 <b>More coming soon</b></td>
+    <td>⏳ Loading...</td>
+    <td>Next project is still cooking. Stay tuned</td>
+    <td>🍳 👀 💀 😎</td>
+  </tr>
+</table>
 
-## 📊 GitHub stats
+<br>
 
-![noproblemerr-web's GitHub stats](https://github-readme-stats.vercel.app/api?username=noproblemerr-web&show_icons=true&theme=tokyonight)
+<img src="assets/thanks.svg" alt="Thanks for visiting my profile, see you next time!" width="850">
 
----
+<br><br>
 
-*Thanks for stopping by! ⭐ Star a repo if you like what you see.*
+<img src="assets/badge-roblox.svg" alt="Built with Roblox Studio" width="132">
+<img src="assets/badge-luau.svg" alt="Powered by Luau" width="132">
+<img src="assets/badge-memes.svg" alt="100% certified meme lord" width="132">
+
+</div>
