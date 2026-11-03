@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="assets/banner-v3.svg" alt="Welcome to my profile" width="900">
+<img src="assets/banner-v4.svg" alt="Welcome to my profile" width="900">
 
-<img src="assets/ticker-v3.svg" alt="Scrolling ticker: Niche Trivia is coming, subscribe on YouTube, stay hydrated, touch grass" width="900">
+<img src="assets/ticker-v4.svg" alt="Scrolling ticker: Niche Trivia is coming, subscribe on YouTube, stay hydrated, touch grass" width="900">
 
 <br>
 
-<img src="assets/intro-v3.svg" alt="Traveler, developer, burger" width="850">
+<img src="assets/intro-v4.svg" alt="Traveler, developer, burger" width="850">
 
-<img src="assets/side-left.svg" alt="Maya and Coco from Ongezellig" align="left" width="130">
-<img src="assets/side-right.svg" alt="Mymy from Ongezellig" align="right" width="130">
+<img src="assets/side-left-v4.svg" alt="Maya and Coco from Ongezellig" align="left" width="130">
+<img src="assets/side-right-v4.svg" alt="Mymy from Ongezellig" align="right" width="130">
 
 <table>
   <tr>
@@ -30,7 +30,7 @@
 
 <br clear="all">
 
-<img src="assets/projects-v3.svg" alt="Project Arcade" width="780">
+<img src="assets/projects-v4.svg" alt="Project Arcade" width="780">
 
 <br>
 
@@ -69,7 +69,7 @@
 
 <br>
 
-<img src="assets/thanks-v3.svg" alt="Thanks for stopping by, now go touch some grass" width="850">
+<img src="assets/thanks-v4.svg" alt="Thanks for stopping by, now go touch some grass" width="850">
 
 <br>
 
