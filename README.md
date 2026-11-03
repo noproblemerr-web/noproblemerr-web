@@ -22,8 +22,8 @@
 <table>
   <tr><th colspan="2">📋 Quick Facts</th></tr>
   <tr><td><b>Main quest</b></td><td>Building Niche Trivia on Roblox</td></tr>
-  <tr><td><b>Weapon of choice</b></td><td>Luau, TypeScript, and a lot of coffee</td></tr>
-  <tr><td><b>Side quests</b></td><td>FTC robotics, Obsidian plugins, and YouTube</td></tr>
+  <tr><td><b>Weapon of choice</b></td><td>Luau, TypeScript, and a lot of thai tea</td></tr>
+  <tr><td><b>Side quests</b></td><td>FTC robotics, obsidian plugins, and youtube</td></tr>
   <tr><td><b>Fuel</b></td><td>Music, memes, and questionable snacks</td></tr>
 </table>
 
