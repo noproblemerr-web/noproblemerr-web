@@ -1,5 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 70" width="500" height="70" role="img" aria-label="Projects">
-  <text x="250" y="52" text-anchor="middle" font-family="'Comic Sans MS', 'Comic Neue', cursive" font-size="50" font-weight="bold" letter-spacing="14">
-    <tspan fill="#ff3b30">P</tspan><tspan fill="#ff9500">r</tspan><tspan fill="#ffd60a">o</tspan><tspan fill="#34c759">j</tspan><tspan fill="#0a84ff">e</tspan><tspan fill="#bf5af2">c</tspan><tspan fill="#ff2d92">t</tspan><tspan fill="#ff3b30">s</tspan>
-  </text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 64" width="600" height="64" role="img" aria-label="Project Arcade">
+  <defs>
+    <linearGradient id="rb" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="300" y2="0" spreadMethod="repeat">
+      <stop offset="0" stop-color="#ff3b30"/>
+      <stop offset="0.14" stop-color="#ff9500"/>
+      <stop offset="0.28" stop-color="#ffd60a"/>
+      <stop offset="0.42" stop-color="#34c759"/>
+      <stop offset="0.57" stop-color="#00d4ff"/>
+      <stop offset="0.71" stop-color="#0a84ff"/>
+      <stop offset="0.85" stop-color="#bf5af2"/>
+      <stop offset="1" stop-color="#ff3b30"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="300 0" dur="2.5s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <text x="300" y="46" text-anchor="middle" font-family="'Arial Black', Impact, sans-serif" font-size="44" font-weight="900" textLength="520" lengthAdjust="spacingAndGlyphs" fill="url(#rb)">🕹️ PROJECT ARCADE 🕹️</text>
 </svg>

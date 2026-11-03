@@ -1,13 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -20 960 200" width="960" height="200" role="img" aria-label="Welcome to my GitHub Profile">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="900" height="160" role="img" aria-label="Noproblemrr - welcome to my corner of the internet">
   <defs>
-    <path id="wave" d="M30,95 C180,30 330,160 480,95 S780,30 930,95"/>
+    <linearGradient id="rb" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="450" y2="0" spreadMethod="repeat">
+      <stop offset="0" stop-color="#ff3b30"/>
+      <stop offset="0.14" stop-color="#ff9500"/>
+      <stop offset="0.28" stop-color="#ffd60a"/>
+      <stop offset="0.42" stop-color="#34c759"/>
+      <stop offset="0.57" stop-color="#00d4ff"/>
+      <stop offset="0.71" stop-color="#0a84ff"/>
+      <stop offset="0.85" stop-color="#bf5af2"/>
+      <stop offset="1" stop-color="#ff3b30"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="450 0" dur="3s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="glow" x="-10%" y="-30%" width="120%" height="160%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
   </defs>
-  <g font-family="Impact, 'Arial Black', sans-serif" font-size="68" font-weight="900" letter-spacing="-2">
-    <text fill="#0a14b8" stroke="#0a14b8" stroke-width="8" stroke-linejoin="round" transform="translate(6,8)">
-      <textPath href="#wave" textLength="890" lengthAdjust="spacingAndGlyphs">Welcome to my GitHub Profile</textPath>
-    </text>
-    <text fill="#4fb8ff" stroke="#1230e0" stroke-width="3" stroke-linejoin="round">
-      <textPath href="#wave" textLength="890" lengthAdjust="spacingAndGlyphs">Welcome to my GitHub Profile</textPath>
-    </text>
+  <g font-family="'Arial Black', Impact, sans-serif" font-weight="900">
+    <text x="450" y="98" text-anchor="middle" font-size="94" textLength="800" lengthAdjust="spacingAndGlyphs" fill="url(#rb)" filter="url(#glow)" opacity="0.8">NOPROBLEMRR</text>
+    <text x="450" y="98" text-anchor="middle" font-size="94" textLength="800" lengthAdjust="spacingAndGlyphs" fill="url(#rb)" stroke="#0d1117" stroke-width="2" paint-order="stroke">NOPROBLEMRR</text>
+    <text x="450" y="144" text-anchor="middle" font-size="22" textLength="560" lengthAdjust="spacingAndGlyphs" fill="url(#rb)">★ welcome to my corner of the internet ★</text>
   </g>
 </svg>
